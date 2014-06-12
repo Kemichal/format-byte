@@ -1,0 +1,34 @@
+{
+  "name": "format-byte",
+  "version": "0.0.0",
+  "description": "Format and transform binary/decimal prefixes for bytes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kemichal/format-byte.git"
+  },
+  "keywords": [
+    "format",
+    "byte",
+    "binary",
+    "decimal",
+    "base-10",
+    "base-2"
+  ],
+  "author": "Robert Andersson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kemichal/format-byte/issues"
+  },
+  "homepage": "https://github.com/Kemichal/format-byte",
+  "devDependencies": {
+    "mocha": "~1.20.1",
+    "chai": "~1.9.1",
+    "grunt": "~0.4.5",
+    "load-grunt-tasks": "~0.5.0",
+    "grunt-mocha-test": "~0.11.0"
+  }
+}
